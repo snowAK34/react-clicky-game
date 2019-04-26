@@ -3,6 +3,13 @@ import './App.css';
 
 function App() {
   return (
+    // navbar
+      // reset & score
+
+    // jumbotron
+      // title & instructions
+
+    // gameboard
 
   );
 }
