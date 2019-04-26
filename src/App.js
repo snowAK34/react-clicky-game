@@ -1,16 +1,10 @@
 import React from 'react';
 import './App.css';
+import Wrapper from './components/Wrapper';
 
 function App() {
   return (
-    // navbar
-      // reset & score
-
-    // jumbotron
-      // title & instructions
-
-    // gameboard
-
+    <Wrapper />
   );
 }
 
