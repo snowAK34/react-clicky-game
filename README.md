@@ -12,9 +12,7 @@ A simple game of memory where points are awarded for clicking on the pictures, b
 * `npm install` to include dependencies
 * `npm start` to run
 
-### images
 
-Images used are from https://pixabay.com/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

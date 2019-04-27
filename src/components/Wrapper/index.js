@@ -16,62 +16,62 @@ class Wrapper extends Component {
             cards: [
                 {
                     id: 1,
-                    url: "https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_1280.jpg",
+                    url: "https://i.imgur.com/u2DDdRX.jpg",
                     clicked: false
                 },
                 {
                     id: 2,
-                    url: "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg",
+                    url: "https://i.imgur.com/6I7UcfA.jpg",
                     clicked: false
                 },
                 {
                     id: 3,
-                    url: "https://cdn.pixabay.com/photo/2017/07/24/19/57/tiger-2535888_1280.jpg",
+                    url: "https://i.imgur.com/ITuiIAD.jpg",
                     clicked: false
                 },
                 {
                     id: 4,
-                    url: "https://cdn.pixabay.com/photo/2017/05/31/18/38/sea-2361247_1280.jpg",
+                    url: "https://i.imgur.com/aO0kVkQ.jpg",
                     clicked: false
                 },
                 {
                     id: 5,
-                    url: "https://cdn.pixabay.com/photo/2017/10/20/10/58/elephant-2870777_1280.jpg",
+                    url: "https://i.imgur.com/4VD2pmy.jpg",
                     clicked: false
                 },
                 {
                     id: 6,
-                    url: "https://cdn.pixabay.com/photo/2016/12/31/21/22/discus-fish-1943755_1280.jpg",
+                    url: "https://i.imgur.com/iVeEHY9.jpg",
                     clicked: false
                 },
                 {
                     id: 7,
-                    url: "https://cdn.pixabay.com/photo/2013/11/01/11/13/dolphin-203875_1280.jpg",
+                    url: "https://i.imgur.com/kFycEJD.jpg",
                     clicked: false
                 },
                 {
                     id: 8,
-                    url: "https://cdn.pixabay.com/photo/2016/12/04/21/58/rabbit-1882699_1280.jpg",
+                    url: "https://i.imgur.com/YFyTXlz.jpg",
                     clicked: false
                 },
                 {
                     id: 9,
-                    url: "https://cdn.pixabay.com/photo/2017/12/10/15/16/white-horse-3010129_1280.jpg",
+                    url: "https://i.imgur.com/1MkWFVf.jpg",
                     clicked: false
                 },
                 {
                     id: 10,
-                    url: "https://cdn.pixabay.com/photo/2017/04/11/21/34/giraffe-2222908_1280.jpg",
+                    url: "https://i.imgur.com/n8T7R09.jpg",
                     clicked: false
                 },
                 {
                     id: 11,
-                    url: "https://cdn.pixabay.com/photo/2014/05/26/13/32/striped-core-354528_1280.jpg",
+                    url: "https://i.imgur.com/gGEcwSs.jpg",
                     clicked: false
                 },
                 {
                     id: 12,
-                    url: "https://cdn.pixabay.com/photo/2014/10/01/10/44/hedgehog-468228_1280.jpg",
+                    url: "https://i.imgur.com/tWQBDQA.jpg",
                     clicked: false
                 }
             ]
