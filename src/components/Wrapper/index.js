@@ -16,77 +16,62 @@ class Wrapper extends Component {
             cards: [
                 {
                     id: 1,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 2,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 3,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2017/07/24/19/57/tiger-2535888_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 4,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2017/05/31/18/38/sea-2361247_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 5,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2017/10/20/10/58/elephant-2870777_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 6,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2016/12/31/21/22/discus-fish-1943755_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 7,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2013/11/01/11/13/dolphin-203875_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 8,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2016/12/04/21/58/rabbit-1882699_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 9,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2017/12/10/15/16/white-horse-3010129_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 10,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2017/04/11/21/34/giraffe-2222908_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 11,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2014/05/26/13/32/striped-core-354528_1280.jpg",
                     clicked: false
                 },
                 {
                     id: 12,
-                    url: "https://via.placeholder.com/150",
-                    clicked: false
-                },
-                {
-                    id: 13,
-                    url: "https://via.placeholder.com/150",
-                    clicked: false
-                },
-                {
-                    id: 14,
-                    url: "https://via.placeholder.com/150",
-                    clicked: false
-                },
-                {
-                    id: 15,
-                    url: "https://via.placeholder.com/150",
+                    url: "https://cdn.pixabay.com/photo/2014/10/01/10/44/hedgehog-468228_1280.jpg",
                     clicked: false
                 }
             ]

@@ -5,7 +5,7 @@ import "./style.css";
 function Gameboard(props) {
     // map images to cards
     return (
-        <div>
+        <div id="card-set">
             {props.cards.map((element, i) => {
                 return (
                     <Card
