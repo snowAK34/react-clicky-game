@@ -138,17 +138,19 @@ class Wrapper extends Component {
 
     render() {
         return (
-            <div  className= "container-fluid">
+            <div>
                 <NavBar 
                     score= {this.state.score}
                     topScore= {this.state.topScore}
                     reset= {this.resetGame}
                 />
-                <Jumbotron />
-                <Gameboard
-                    cards= {this.state.cards}
-                    clickImage= {this.clickImage}
-                />
+                <div className= "container-fluid">
+                    <Jumbotron />
+                    <Gameboard
+                        cards= {this.state.cards}
+                        clickImage= {this.clickImage}
+                    />
+                </div>
             </div>
         )
     }
