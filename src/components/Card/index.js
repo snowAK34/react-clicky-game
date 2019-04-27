@@ -1,13 +1,11 @@
 import React from 'react';
 import "./style.css";
 
-function Card() {
+function Card(props) {
     
     return (
-        <div class="card">
-            <div class="card-body">
-                {/* image here */}
-            </div>
+        <div className="card" onClick={props.onClick}>
+            <img src={props.image} alt="gamepiece"></img>
         </div>
     )
 }
