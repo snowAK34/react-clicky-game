@@ -142,6 +142,7 @@ class Wrapper extends Component {
                 <NavBar 
                     score= {this.state.score}
                     topScore= {this.state.topScore}
+                    reset= {this.resetGame}
                 />
                 <Jumbotron />
                 <Gameboard
