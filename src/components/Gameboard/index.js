@@ -10,7 +10,7 @@ function Gameboard(props) {
                 return (
                     <Card
                         image={element.url}
-                        onClick={() => props.clickImage(element.id)}
+                        onClick={() => props.clickImage(element.id, element.clicked)}
                     />
                 )  
             

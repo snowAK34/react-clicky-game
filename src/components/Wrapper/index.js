@@ -78,12 +78,12 @@ class Wrapper extends Component {
         })
     }
 
-    clickImage = num => {
-        
-        if (this.state.cards[num].clicked === false) {
+    clickImage = (num, clicked) => {
+        if (clicked === false) {
             let arrayCopy = this.state.cards;
             for (let i = 0; i < arrayCopy.length; i++) {
-                if (arrayCopy.id === num) {
+                console.log("id: ", arrayCopy[i].id, "param: ", num);
+                if (arrayCopy[i].id === num) {
                     arrayCopy[i].clicked = true
                 }
             }
